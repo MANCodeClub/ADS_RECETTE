@@ -1,0 +1,6 @@
+"A" = "val_A"
+"B" = "val_B"
+"C" = "val_C"
+"D" = "val_D"
+"AA" = "val_AA"
+"AAA" = "val_AAA"
